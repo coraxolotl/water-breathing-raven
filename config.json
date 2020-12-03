@@ -1,0 +1,15 @@
+{
+    "API-keys":{
+        "news": "9f55f8176a45441ebca47151609da7fb",
+        "weather": "070b45069646b947ed5c71c08bf5b3cd"
+    },
+    "location":{
+        "news": "gb",
+        "weather": "Exeter,uk",
+        "covid":{
+            "type": "ltla",
+            "name": "Exeter"
+        }
+    },
+    "notif-minute": "00"
+}
